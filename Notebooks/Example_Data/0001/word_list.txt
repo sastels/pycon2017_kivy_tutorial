@@ -1,0 +1,16 @@
+chair
+handle
+long
+house
+man
+door
+big
+hoe
+short
+forest
+bed
+fork
+doorway
+tall
+frames
+bicycle
