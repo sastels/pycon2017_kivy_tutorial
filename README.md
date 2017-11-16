@@ -6,7 +6,7 @@
 * You will need Jupyter Notebook and Kivy, as well as the notebooks and example data contained in this repo.
 * Easiest way to install Jupyter Notebook is by installing [Anaconda](https://www.anaconda.com/download/)
 * NOTE that there is a bug in the current release of Kivy that might crash the install. Luckily the bug has already been fixed in the development (master) branch. I would recommend:
-  * install Anaconda
+  * install [Anaconda](https://www.anaconda.com/download/)
   * create a conda environment (conda create --name myenv)
   * activate the environment ("source activate myenv" on macOS/Linux, Windows is a bit different)
   * install Kivy's dependancies as described on the [Kivy Homepage](https://kivy.org/#download) but DON'T do the final "pip install kivy"
