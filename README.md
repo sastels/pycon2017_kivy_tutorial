@@ -9,6 +9,7 @@
   * install Anaconda
   * create a conda environment (conda create --name myenv)
   * activate the environment ("source activate myenv" on macOS/Linux, Windows is a bit different)
+  * install Kivy's dependancies as described on the [Kivy Homepage](https://kivy.org/#download) but DON'T do the final "pip install kivy"
   * install the development branch of Kivy (pip install http://github.com/kivy/kivy/archive/master.zip)
 * (Optional) We will show how to build Kivy apps for iOS. To do this yourself requires a Mac and the [kivy-ios](https://github.com/kivy/kivy-ios) package.
 
