@@ -8,7 +8,7 @@
 * Easiest / only way to install Kivy is by using the instructions at the [Kivy homepage](https://kivy.org/#download)
 * NOTE that there is a bug in the current release of Kivy that might crash the install. Luckily the bug has already been fixed in the development (master) branch. I would recommend:
   * Install Anaconda as mentioned
-  * create a condo environment (conda create --name myenv)
+  * create a conda environment (conda create --name myenv)
   * activate the environment ("source activate myenv" on macOS/Linux, Windows is a bit different)
   * install the development branch of Kivy (pip install http://github.com/kivy/kivy/archive/master.zip)
 * Note that we are not going to be running Kivy in the notebook, just from the command line.
